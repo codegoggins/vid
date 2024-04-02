@@ -3,7 +3,6 @@ import ReactPlayer from 'react-player';
 
 import vid1 from '../assets/file_example_MOV_1280_1_4MB.mov';
 import vid2 from '../assets/mixkit-countryside-meadow-4075-medium.mp4';
-import vid3 from '../assets/pexels-cristian-rossa-14873245 (2160p).mp4';
 import img1 from '../assets/no_groups.png';
 import img2 from '../assets/photo-1606914469633-bd39206ea739 (1).jpg';
 
@@ -19,12 +18,6 @@ const playlist = [
     type: "video",
     duration: 10,
     link:'https://www.youtube.com/watch?v=xuP4g7IDgDM',
-  },
-  {
-    id: "3",
-    type: "video",
-    duration: 23,
-    link: vid2,
   },
   {
     id: "4",
